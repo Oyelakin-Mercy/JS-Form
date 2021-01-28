@@ -1,0 +1,12 @@
+body{
+    background-color: #D87CAC;
+    margin: 29px 29px;
+}
+#fname{
+    border: none;
+    outline: none;
+}
+#lname{
+    border: none;
+    outline: none;
+}
